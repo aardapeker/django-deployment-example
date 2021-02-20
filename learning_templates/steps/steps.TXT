@@ -1,0 +1,12 @@
+look at 1 - 32
+look at http://localhost:8000/ and http://localhost:8000/basic_app/other/
+look at 33
+look again look at http://localhost:8000/ and click and control the link.
+look at 34 35 
+look again look at http://localhost:8000/ 
+look at 36 
+look again look at http://localhost:8000/ 
+look at 37 - 44 
+look again look at http://localhost:8000/
+look at 45 (we can do it this way too)
+look again look at http://localhost:8000/ and sure nothing change from last one

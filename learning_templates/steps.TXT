@@ -1,0 +1,10 @@
+django-admin startproject learning_templates
+cd learning_templates
+django-admin startapp basic_app
+look at 1-23
+look at http://localhost:8000/basic_app/relative/
+look at 24
+python manage.py migrate
+look at http://localhost:8000/basic_app/relative/ and click link to admin text.
+look at 25
+look at http://localhost:8000/basic_app/relative/ and click link to index text
